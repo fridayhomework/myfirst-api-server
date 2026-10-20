@@ -401,3 +401,4 @@ kubectl delete -k overlays/dev
 ```
 
 namespace는 위 명령으로 삭제되지 않습니다. 같은 이름을 사용하는 dev/prod를 번갈아 적용했다면 위 삭제 명령도 현재 같은 이름의 리소스를 삭제합니다.
+.
